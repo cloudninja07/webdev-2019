@@ -9,7 +9,7 @@ The web developer bootcamp                  -47:05:18
 4. Intermediate HTML                        -01:12:29
 5. Introduction to CSS                      -01:40:12
 6. Intermediate CSS                         -01:26:06
-7. Bootstrap                                -02:00:18    
+7. Bootstrap                                -02:00:18  
 8. Bootstrap 4!                             -01:16:28
 9. Bootstrap 4 Flexbox and Layout           -02:09:58
 10. Introduction to JavaScript              -   56:21

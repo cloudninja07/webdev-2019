@@ -1,4 +1,4 @@
-<!-- Day 01 -->  Time 08:56:39
+Day 01   Time 08:56:39
 # html checked option in checkbox input 
 # css  Specificity and the Cascade
 # css select input[type] selector

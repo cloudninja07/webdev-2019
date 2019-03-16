@@ -13,4 +13,4 @@
 *Day 02* (Note:- learn about media-quries)
 1. bootstrap navbar & shift right side link
 2. flexbox in bootstrap
-3. 
+3. js while loop

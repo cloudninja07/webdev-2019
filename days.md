@@ -10,7 +10,8 @@
 8. hr style
 9. bootstrap grid system
 
-*Day 02* (Note:- learn about media-quries) **Time 10:27:53**
+*Day 02* **Time 10:27:53**
 1. bootstrap navbar & shift right side link
 2. flexbox in bootstrap
 3. js while loop
+(Note:- learn about media-quries)

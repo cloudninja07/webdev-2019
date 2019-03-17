@@ -15,3 +15,11 @@
 2. flexbox in bootstrap
 3. js while loop
 (Note:- learn about media-quries)
+
+*Day 03* **Time 08:18:23**
+1. difference between console.log and return
+2. setInterval() functions
+3. array method and functions()
+4. add classList in DOM
+5. DOM attribute manipulating
+(Note:- problem in function array logic)

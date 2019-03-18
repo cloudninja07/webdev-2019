@@ -1,4 +1,4 @@
-#1oo days of code
+# 1oo days of code
 
 -----------------------------------------------------
 The web developer bootcamp                  -47:05:18

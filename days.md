@@ -43,3 +43,12 @@ Time 06:52:14
 2. jquery css property
 3. jquery methods
 >**Note:-** Half complete colorGame Project
+---
+
+## Day 05
+```
+Time 03:38:26
+```
+1. Jquery Events
+>**Note:-** Just Searching Yourtube
+---

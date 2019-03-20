@@ -52,3 +52,11 @@ Time 03:38:26
 1. Jquery Events
 >**Note:-** Just Searching Yourtube
 ---
+
+## Day 06
+```
+Time 06:08:31
+```
+1. working on admin panel project.
+>**Note:-** Learn more about nodejs with mysql
+---

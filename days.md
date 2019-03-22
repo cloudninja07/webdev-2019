@@ -71,8 +71,8 @@ Time 02:30:35
 
 ## Day 08
 ```
-Time 
+Time 04:50:01
 ```
-1. 
->**Note:-** 
+1. Learn Node.js + MySQL CRUD operation
+>**Note:-** After that start udemy free node course.
 ---

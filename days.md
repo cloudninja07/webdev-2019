@@ -60,3 +60,11 @@ Time 06:08:31
 1. working on admin panel project.
 >**Note:-** Learn more about nodejs with mysql
 ---
+
+## Day 07
+```
+Time 02:30:35
+```
+1. Learn sql with nodejs
+>**Note:-** Learn more about nodejs with mysql
+---

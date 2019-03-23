@@ -76,3 +76,11 @@ Time 04:50:01
 1. Learn Node.js + MySQL CRUD operation
 >**Note:-** After that start udemy free node course.
 ---
+## Day 09
+```
+Time 09:12:26
+```
+1. working on a project
+2. connect mysql to nodejs.
+>**Note:-** Learn more about css.
+---

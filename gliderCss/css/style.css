@@ -1,0 +1,26 @@
+.glider-contain {
+	width: 85% !important;
+	margin-top: 12%;
+	margin-bottom: 5%;
+}
+
+.glider-next {
+	right: -50px;
+	top: 50%;
+}
+
+.glider-prev {
+	left: -50px;
+	top: 50%;
+}
+
+div .card {
+	height: 100% !important;
+	margin: 1.5em;
+}
+
+.category {
+	position: absolute;
+	margin-top: -2.5em;
+	margin-left: -0.5em;
+}

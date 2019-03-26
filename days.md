@@ -84,3 +84,20 @@ Time 09:12:26
 2. connect mysql to nodejs.
 >**Note:-** Learn more about css.
 ---
+
+## Day 10
+```
+Time 07:38:03
+```
+1. working on a project.
+2. learn bootstrap card slider.
+>**Note:-** Learn scss.
+---
+
+## Day 11
+```
+Time 08:02:38
+```
+1. working on a project.
+>**Note:-** Learn Flexbox & Grid.
+---

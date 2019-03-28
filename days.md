@@ -101,3 +101,19 @@ Time 08:02:38
 1. working on a project.
 >**Note:-** Learn Flexbox & Grid.
 ---
+
+## Day 12
+```
+Time 10:37:17
+```
+1. working on a project.
+>**Note:-** Learn Flexbox & Grid.
+---
+
+## Day 13
+```
+Time 04:52:47
+```
+1. working on a project.
+>**Note:-** jquery UI.
+---

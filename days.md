@@ -117,3 +117,11 @@ Time 04:52:47
 1. working on a project.
 >**Note:-** jquery UI.
 ---
+
+## Day 14
+```
+Time 08:06:20
+```
+1. Complete project.
+>**Note:-** jquery UI.
+---

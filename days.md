@@ -125,3 +125,12 @@ Time 08:06:20
 1. Complete project.
 >**Note:-** jquery UI.
 ---
+
+## Day 15
+```
+Time 06:26:30
+```
+1. Start Nodejs with mysql.
+2. Learn to connect and create database in sql using nodejs.
+>**Note:-** After that learn web scrapping with nodejs.
+---

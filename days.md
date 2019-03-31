@@ -134,3 +134,11 @@ Time 06:26:30
 2. Learn to connect and create database in sql using nodejs.
 >**Note:-** After that learn web scrapping with nodejs.
 ---
+
+## Day 16
+```
+Time 05:43:03
+```
+1. complete intro of mysql with nodejs from udemy.
+
+---

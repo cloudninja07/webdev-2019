@@ -142,3 +142,11 @@ Time 05:43:03
 1. complete intro of mysql with nodejs from udemy.
 
 ---
+
+## Day 17
+```
+Time 01:31:23
+```
+1. learn nodejs basic concepts.
+>**Note:-** learn more about sql.
+---

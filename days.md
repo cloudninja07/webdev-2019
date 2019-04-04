@@ -157,3 +157,10 @@ Time 04:47:51
 ```
 1. learn nodejs.
 ---
+## Day 19
+```
+Time 03:06:51
+```
+1. Start to learn web scrapping.
+>**Note:-** More focus on frontend development.
+---

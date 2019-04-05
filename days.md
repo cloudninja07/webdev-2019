@@ -164,3 +164,11 @@ Time 03:06:51
 1. Start to learn web scrapping.
 >**Note:-** More focus on frontend development.
 ---
+
+## Day 20
+```
+Time 06:56:31
+```
+1. Continue to learn web scrapping.
+>**Note:-** More focus on frontend development.
+---

@@ -175,11 +175,22 @@ Time 06:56:31
 
 ## Day 21
 ```
-Time 
+Time 06:14:04
 ```
 1. Learn css clip-path property.
 2. CSS relative and absolute position.
 3. Keyframe animations.
 4. Transform position. 
 >**Note:-** More focus on frontend development.
+---
+
+## Day 22
+```
+Time 06:53:28
+```
+1. !important
+2. learn more about css
+3.
+4. 
+>**Note:-** Learn HTML to PSD.
 ---

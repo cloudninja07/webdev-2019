@@ -190,7 +190,21 @@ Time 06:53:28
 ```
 1. !important
 2. learn more about css
-3.
-4. 
+>**Note:-** Learn HTML to PSD.
+---
+
+## Day 23
+```
+Time 06:09:58
+```
+1.Learn Sass 
+>**Note:-** Learn HTML to PSD.
+---
+
+## Day 24
+```
+Time 11:00:41
+```
+1. Working on My Employment project. 
 >**Note:-** Learn HTML to PSD.
 ---

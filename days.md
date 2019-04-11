@@ -208,3 +208,19 @@ Time 11:00:41
 1. Working on My Employment project. 
 >**Note:-** Learn HTML to PSD.
 ---
+
+## Day 25
+```
+Time 01:52:23
+```
+1. learn more about css
+>**Note:-** Learn HTML to PSD.
+---
+
+## Day 26
+```
+Time 
+```
+1. 
+>**Note:-** Learn HTML to PSD.
+---

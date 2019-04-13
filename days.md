@@ -219,8 +219,8 @@ Time 01:52:23
 
 ## Day 26
 ```
-Time 
+Time 02:00:49
 ```
-1. 
+1. continue sass project.
 >**Note:-** Learn HTML to PSD.
 ---

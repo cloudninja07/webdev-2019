@@ -224,3 +224,11 @@ Time 02:00:49
 1. continue sass project.
 >**Note:-** Learn HTML to PSD.
 ---
+
+## Day 27
+```
+Time 01:32:14
+```
+1. continue sass project.
+>**Note:-** Learn HTML to PSD.
+---
